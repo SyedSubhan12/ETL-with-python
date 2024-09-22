@@ -13,3 +13,4 @@
 
 
 # ETL-with-python
+![ETL Project Image](docs/etl.drawio.png)
